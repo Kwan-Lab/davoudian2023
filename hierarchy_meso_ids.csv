@@ -1,0 +1,316 @@
+,Region_ID,Region_Name,abbreviation,Brain Area
+5,184,"Frontal pole, cerebral cortex",FRP,Cortex
+12,985,Primary motor area,MOp,Cortex
+18,993,Secondary motor area,MOs,Cortex
+26,353,"Primary somatosensory area, nose",SSp-n,Cortex
+33,329,"Primary somatosensory area, barrel field",SSp-bfd,Cortex
+40,337,"Primary somatosensory area, lower limb",SSp-ll,Cortex
+47,345,"Primary somatosensory area, mouth",SSp-m,Cortex
+54,369,"Primary somatosensory area, upper limb",SSp-ul,Cortex
+61,361,"Primary somatosensory area, trunk",SSp-tr,Cortex
+68,182305689,"Primary somatosensory area, unassigned",SSp-un,Cortex
+75,378,Supplemental somatosensory area,SSs,Cortex
+82,1057,Gustatory areas,GU,Cortex
+89,677,Visceral area,VISC,Cortex
+97,1011,Dorsal auditory area,AUDd,Cortex
+104,1002,Primary auditory area,AUDp,Cortex
+111,1027,Posterior auditory area,AUDpo,Cortex
+118,1018,Ventral auditory area,AUDv,Cortex
+126,402,Anterolateral visual area,VISal,Cortex
+133,394,Anteromedial visual area,VISam,Cortex
+140,409,Lateral visual area,VISl,Cortex
+147,385,Primary visual area,VISp,Cortex
+154,425,Posterolateral visual area,VISpl,Cortex
+161,533,posteromedial visual area,VISpm,Cortex
+168,312782574,Laterointermediate area,VISli,Cortex
+175,312782628,Postrhinal area,VISpor,Cortex
+183,39,"Anterior cingulate area, dorsal part",ACAd,Cortex
+189,48,"Anterior cingulate area, ventral part",ACAv,Cortex
+195,972,Prelimbic area,PL,Cortex
+201,44,Infralimbic area,ILA,Cortex
+208,723,"Orbital area, lateral part",ORBl,Cortex
+214,731,"Orbital area, medial part",ORBm,Cortex
+220,746,"Orbital area, ventrolateral part",ORBvl,Cortex
+227,104,"Agranular insular area, dorsal part",AId,Cortex
+233,111,"Agranular insular area, posterior part",AIp,Cortex
+239,119,"Agranular insular area, ventral part",AIv,Cortex
+246,894,"Retrosplenial area, lateral agranular part",RSPagl,Cortex
+252,879,"Retrosplenial area, dorsal part",RSPd,Cortex
+258,886,"Retrosplenial area, ventral part",RSPv,Cortex
+265,312782546,Anterior area,VISa,Cortex
+272,417,Rostrolateral visual area,VISrl,Cortex
+279,541,Temporal association areas,TEa,Cortex
+286,922,Perirhinal area,PERI,Cortex
+292,895,Ectorhinal area,ECT,Cortex
+299,507,Main olfactory bulb,MOB,Olfactory
+300,151,Accessory olfactory bulb,AOB,Olfactory
+304,159,Anterior olfactory nucleus,AON,Olfactory
+305,589,Taenia tecta,TT,Olfactory
+308,814,Dorsal peduncular area,DP,Olfactory
+309,961,Piriform area,PIR,Olfactory
+310,619,Nucleus of the lateral olfactory tract,NLOT,Olfactory
+315,639,"Cortical amygdalar area, anterior part",COAa,Olfactory
+316,647,"Cortical amygdalar area, posterior part",COAp,Olfactory
+319,788,Piriform-amygdalar area,PAA,Olfactory
+320,566,Postpiriform transition area,TR,Olfactory
+324,382,Field CA1,CA1,Hippo
+325,423,Field CA2,CA2,Hippo
+326,463,Field CA3,CA3,Hippo
+327,726,Dentate gyrus,DG,Hippo
+331,982,Fasciola cinerea,FC,Hippo
+332,19,Induseum griseum,IG,Hippo
+335,918,"Entorhinal area, lateral part",ENTl,Hippo
+341,926,"Entorhinal area, medial part, dorsal zone",ENTm,Hippo
+347,843,Parasubiculum,PAR,Hippo
+348,1037,Postsubiculum,POST,Hippo
+349,1084,Presubiculum,PRE,Hippo
+350,502,Subiculum,SUB,Hippo
+351,484682470,Prosubiculum,ProS,Hippo
+352,589508447,Hippocampo-amygdalar transition area,HATA,Hippo
+353,484682508,Area prostriata,APr,Hippo
+355,583,Claustrum,CLA,Cortex
+357,952,"Endopiriform nucleus, dorsal part",EPd,Cortex
+358,966,"Endopiriform nucleus, ventral part",EPv,Cortex
+359,131,Lateral amygdalar nucleus,LA,Cortex
+360,295,Basolateral amygdalar nucleus,BLA,Cortex
+364,319,Basomedial amygdalar nucleus,BMA,Cortex
+367,780,Posterior amygdalar nucleus,PA,Cortex
+371,672,Caudoputamen,CP,StriatumPallidum
+373,56,Nucleus accumbens,ACB,StriatumPallidum
+374,998,Fundus of striatum,FS,StriatumPallidum
+375,754,Olfactory tubercle,OT,StriatumPallidum
+378,250,"Lateral septal nucleus, caudal (caudodorsal) part",LSc,StriatumPallidum
+379,258,"Lateral septal nucleus, rostral (rostroventral) part",LSr,StriatumPallidum
+380,266,"Lateral septal nucleus, ventral part",LSv,StriatumPallidum
+381,310,Septofimbrial nucleus,SF,StriatumPallidum
+382,333,Septohippocampal nucleus,SH,StriatumPallidum
+384,23,Anterior amygdalar area,AAA,StriatumPallidum
+385,292,Bed nucleus of the accessory olfactory tract,BA,StriatumPallidum
+386,536,Central amygdalar nucleus,CEA,StriatumPallidum
+390,1105,Intercalated amygdalar nucleus,IA,StriatumPallidum
+391,403,Medial amygdalar nucleus,MEA,StriatumPallidum
+394,1022,"Globus pallidus, external segment",GPe,StriatumPallidum
+395,1031,"Globus pallidus, internal segment",GPi,StriatumPallidum
+397,342,Substantia innominata,SI,StriatumPallidum
+398,298,Magnocellular nucleus,MA,StriatumPallidum
+401,564,Medial septal nucleus,MS,StriatumPallidum
+402,596,Diagonal band nucleus,NDB,StriatumPallidum
+403,581,Triangular nucleus of septum,TRS,StriatumPallidum
+405,351,Bed nuclei of the stria terminalis,BST,StriatumPallidum
+406,287,Bed nucleus of the anterior commissure,BAC,StriatumPallidum
+412,629,Ventral anterior-lateral complex of the thalamus,VAL,Thalamus
+413,685,Ventral medial nucleus of the thalamus,VM,Thalamus
+415,718,Ventral posterolateral nucleus of the thalamus,VPL,Thalamus
+416,725,"Ventral posterolateral nucleus of the thalamus, parvicellular part",VPLpc,Thalamus
+417,733,Ventral posteromedial nucleus of the thalamus,VPM,Thalamus
+418,741,"Ventral posteromedial nucleus of the thalamus, parvicellular part",VPMpc,Thalamus
+419,563807435,Posterior triangular thalamic nucleus,PoT,Thalamus
+421,414,"Subparafascicular nucleus, magnocellular part",SPFm,Thalamus
+422,422,"Subparafascicular nucleus, parvicellular part",SPFp,Thalamus
+423,609,Subparafascicular area,SPA,Thalamus
+424,1044,Peripeduncular nucleus,PP,Thalamus
+426,475,Medial geniculate complex,MG,Thalamus
+430,170,Dorsal part of the lateral geniculate complex,LGd,Thalamus
+436,218,Lateral posterior nucleus of the thalamus,LP,Thalamus
+437,1020,Posterior complex of the thalamus,PO,Thalamus
+438,1029,Posterior limiting nucleus of the thalamus,POL,Thalamus
+439,325,Suprageniculate nucleus,SGN,Thalamus
+442,255,Anteroventral nucleus of thalamus,AV,Thalamus
+443,127,Anteromedial nucleus,AM,Thalamus
+446,64,Anterodorsal nucleus,AD,Thalamus
+447,1120,Interanteromedial nucleus of the thalamus,IAM,Thalamus
+448,1113,Interanterodorsal nucleus of the thalamus,IAD,Thalamus
+449,155,Lateral dorsal nucleus of thalamus,LD,Thalamus
+451,59,Intermediodorsal nucleus of the thalamus,IMD,Thalamus
+452,362,Mediodorsal nucleus of thalamus,MD,Thalamus
+453,366,Submedial nucleus of the thalamus,SMT,Thalamus
+454,1077,Perireunensis nucleus,PR,Thalamus
+456,149,Paraventricular nucleus of the thalamus,PVT,Thalamus
+457,15,Parataenial nucleus,PT,Thalamus
+458,181,Nucleus of reuniens,RE,Thalamus
+459,560581559,Xiphoid thalamic nucleus,Xi,Thalamus
+461,189,Rhomboid nucleus,RH,Thalamus
+462,599,Central medial nucleus of the thalamus,CM,Thalamus
+463,907,Paracentral nucleus,PCN,Thalamus
+464,575,Central lateral nucleus of the thalamus,CL,Thalamus
+465,930,Parafascicular nucleus,PF,Thalamus
+466,560581563,Posterior intralaminar thalamic nucleus,PIL,Thalamus
+467,262,Reticular nucleus of the thalamus,RT,Thalamus
+469,27,Intergeniculate leaflet of the lateral geniculate complex,IGL,Thalamus
+470,563807439,Intermediate geniculate nucleus,IntG,Thalamus
+471,178,Ventral part of the lateral geniculate complex,LGv,Thalamus
+472,321,Subgeniculate nucleus,SubG,Thalamus
+474,483,Medial habenula,MH,Thalamus
+475,186,Lateral habenula,LH,Thalamus
+478,390,Supraoptic nucleus,SO,Hypothalamus
+479,332,Accessory supraoptic group,ASO,Hypothalamus
+480,38,Paraventricular hypothalamic nucleus,PVH,Hypothalamus
+481,30,"Periventricular hypothalamic nucleus, anterior part",PVa,Hypothalamus
+482,118,"Periventricular hypothalamic nucleus, intermediate part",PVi,Hypothalamus
+483,223,Arcuate hypothalamic nucleus,ARH,Hypothalamus
+485,72,Anterodorsal preoptic nucleus,ADP,Hypothalamus
+486,263,Anteroventral preoptic nucleus,AVP,Hypothalamus
+487,272,Anteroventral periventricular nucleus,AVPV,Hypothalamus
+488,830,Dorsomedial nucleus of the hypothalamus,DMH,Hypothalamus
+489,452,Median preoptic nucleus,MEPO,Hypothalamus
+490,523,Medial preoptic area,MPO,Hypothalamus
+491,763,Vascular organ of the lamina terminalis,OV,Hypothalamus
+492,914,Posterodorsal preoptic nucleus,PD,Hypothalamus
+493,1109,Parastrial nucleus,PS,Hypothalamus
+494,126,"Periventricular hypothalamic nucleus, posterior part",PVp,Hypothalamus
+495,133,"Periventricular hypothalamic nucleus, preoptic part",PVpo,Hypothalamus
+496,347,Subparaventricular zone,SBPV,Hypothalamus
+497,286,Suprachiasmatic nucleus,SCH,Hypothalamus
+498,338,Subfornical organ,SFO,Hypothalamus
+499,576073699,Ventromedial preoptic nucleus,VMPO,Hypothalamus
+500,689,Ventrolateral preoptic nucleus,VLPO,Hypothalamus
+502,88,Anterior hypothalamic nucleus,AHN,Hypothalamus
+504,210,Lateral mammillary nucleus,LM,Hypothalamus
+505,491,Medial mammillary nucleus,MM,Hypothalamus
+511,525,Supramammillary nucleus,SUM,Hypothalamus
+513,1126,"Tuberomammillary nucleus, dorsal part",TMd,Hypothalamus
+514,1,"Tuberomammillary nucleus, ventral part",TMv,Hypothalamus
+515,515,Medial preoptic nucleus,MPN,Hypothalamus
+516,980,Dorsal premammillary nucleus,PMd,Hypothalamus
+517,1004,Ventral premammillary nucleus,PMv,Hypothalamus
+518,63,"Paraventricular hypothalamic nucleus, descending division",PVHd,Hypothalamus
+519,693,Ventromedial hypothalamic nucleus,VMH,Hypothalamus
+520,946,Posterior hypothalamic nucleus,PH,Hypothalamus
+522,194,Lateral hypothalamic area,LHA,Hypothalamus
+523,226,Lateral preoptic area,LPO,Hypothalamus
+524,356,Preparasubthalamic nucleus,PST,Hypothalamus
+525,364,Parasubthalamic nucleus,PSTN,Hypothalamus
+526,576073704,Perifornical nucleus,PeF,Hypothalamus
+527,173,Retrochiasmatic area,RCH,Hypothalamus
+528,470,Subthalamic nucleus,STN,Hypothalamus
+529,614,Tuberal nucleus,TU,Hypothalamus
+530,797,Zona incerta,ZI,Hypothalamus
+532,10671,Median eminence,ME,Hypothalamus
+535,302,"Superior colliculus, sensory related",SCs,MidHindMedulla
+539,4,Inferior colliculus,IC,MidHindMedulla
+543,580,Nucleus of the brachium of the inferior colliculus,NB,MidHindMedulla
+544,271,Nucleus sagulum,SAG,MidHindMedulla
+545,874,Parabigeminal nucleus,PBG,MidHindMedulla
+546,460,Midbrain trigeminal nucleus,MEV,MidHindMedulla
+547,599626923,Subcommissural organ,SCO,MidHindMedulla
+549,381,"Substantia nigra, reticular part",SNr,MidHindMedulla
+550,749,Ventral tegmental area,VTA,MidHindMedulla
+551,607344830,Paranigral nucleus,PN,MidHindMedulla
+552,246,"Midbrain reticular nucleus, retrorubral area",RR,MidHindMedulla
+553,128,Midbrain reticular nucleus,MRN,MidHindMedulla
+554,294,"Superior colliculus, motor related",SCm,MidHindMedulla
+559,795,Periaqueductal gray,PAG,MidHindMedulla
+565,215,Anterior pretectal nucleus,APN,MidHindMedulla
+566,531,Medial pretectal area,MPT,MidHindMedulla
+567,628,Nucleus of the optic tract,NOT,MidHindMedulla
+568,634,Nucleus of the posterior commissure,NPC,MidHindMedulla
+569,706,Olivary pretectal nucleus,OP,MidHindMedulla
+570,1061,Posterior pretectal nucleus,PPT,MidHindMedulla
+572,616,Cuneiform nucleus,CUN,MidHindMedulla
+573,214,Red nucleus,RN,MidHindMedulla
+574,35,Oculomotor nucleus,III,MidHindMedulla
+575,549009211,Medial accesory oculomotor nucleus,MA3,MidHindMedulla
+576,975,Edinger-Westphal nucleus,EW,MidHindMedulla
+577,115,Trochlear nucleus,IV,MidHindMedulla
+578,606826663,Paratrochlear nucleus,Pa4,MidHindMedulla
+579,757,Ventral tegmental nucleus,VTN,MidHindMedulla
+580,231,Anterior tegmental nucleus,AT,MidHindMedulla
+581,66,Lateral terminal nucleus of the accessory optic tract,LT,MidHindMedulla
+582,75,Dorsal terminal nucleus of the accessory optic tract,DT,MidHindMedulla
+583,58,Medial terminal nucleus of the accessory optic tract,MT,MidHindMedulla
+585,374,"Substantia nigra, compact part",SNc,MidHindMedulla
+586,1052,Pedunculopontine nucleus,PPN,MidHindMedulla
+588,12,Interfascicular nucleus raphe,IF,MidHindMedulla
+589,100,Interpeduncular nucleus,IPN,MidHindMedulla
+598,197,Rostral linear nucleus raphe,RL,MidHindMedulla
+599,591,Central linear nucleus raphe,CLI,MidHindMedulla
+600,872,Dorsal nucleus raphe,DR,MidHindMedulla
+604,612,Nucleus of the lateral lemniscus,NLL,MidHindMedulla
+605,7,Principal sensory nucleus of the trigeminal,PSV,MidHindMedulla
+606,867,Parabrachial nucleus,PB,MidHindMedulla
+608,398,Superior olivary complex,SOC,MidHindMedulla
+613,280,Barrington's nucleus,B,MidHindMedulla
+614,880,Dorsal tegmental nucleus,DTN,MidHindMedulla
+615,599626927,Posterodorsal tegmental nucleus,PDTg,MidHindMedulla
+616,898,Pontine central gray,PCG,MidHindMedulla
+617,931,Pontine gray,PG,MidHindMedulla
+618,1093,"Pontine reticular nucleus, caudal part",PRNc,MidHindMedulla
+619,318,Supragenual nucleus,SG,MidHindMedulla
+620,534,Supratrigeminal nucleus,SUT,MidHindMedulla
+621,574,Tegmental reticular nucleus,TRN,MidHindMedulla
+622,621,Motor nucleus of trigeminal,V,MidHindMedulla
+623,549009215,Peritrigeminal zone,P5,MidHindMedulla
+624,549009219,Accessory trigeminal nucleus,Acs5,MidHindMedulla
+625,549009223,Parvicellular motor 5 nucleus,PC5,MidHindMedulla
+626,549009227,Intertrigeminal nucleus,I5,MidHindMedulla
+628,679,Superior central nucleus raphe,CS,MidHindMedulla
+629,147,Locus ceruleus,LC,MidHindMedulla
+630,162,Laterodorsal tegmental nucleus,LDT,MidHindMedulla
+631,604,Nucleus incertus,NI,MidHindMedulla
+632,146,Pontine reticular nucleus,PRNr,MidHindMedulla
+633,238,Nucleus raphe pontis,RPO,MidHindMedulla
+634,350,Subceruleus nucleus,SLC,MidHindMedulla
+635,358,Sublaterodorsal nucleus,SLD,MidHindMedulla
+638,207,Area postrema,AP,MidHindMedulla
+640,96,Dorsal cochlear nucleus,DCO,MidHindMedulla
+641,101,Ventral cochlear nucleus,VCO,MidHindMedulla
+643,711,Cuneate nucleus,CU,MidHindMedulla
+644,1039,Gracile nucleus,GR,MidHindMedulla
+645,903,External cuneate nucleus,ECU,MidHindMedulla
+646,642,Nucleus of the trapezoid body,NTB,MidHindMedulla
+647,651,Nucleus of the solitary tract,NTS,MidHindMedulla
+648,429,"Spinal nucleus of the trigeminal, caudal part",SPVC,MidHindMedulla
+649,437,"Spinal nucleus of the trigeminal, interpolar part",SPVI,MidHindMedulla
+650,445,"Spinal nucleus of the trigeminal, oral part",SPVO,MidHindMedulla
+651,589508451,Paratrigeminal nucleus,Pa5,MidHindMedulla
+653,653,Abducens nucleus,VI,MidHindMedulla
+654,661,Facial motor nucleus,VII,MidHindMedulla
+655,576,Accessory facial motor nucleus,ACVII,MidHindMedulla
+656,135,Nucleus ambiguus,AMB,MidHindMedulla
+659,839,Dorsal motor nucleus of the vagus nerve,DMX,MidHindMedulla
+660,1048,Gigantocellular reticular nucleus,GRN,MidHindMedulla
+661,372,Infracerebellar nucleus,ICB,MidHindMedulla
+662,83,Inferior olivary complex,IO,MidHindMedulla
+663,136,Intermediate reticular nucleus,IRN,MidHindMedulla
+664,106,Inferior salivatory nucleus,ISN,MidHindMedulla
+665,203,Linear nucleus of the medulla,LIN,MidHindMedulla
+666,235,Lateral reticular nucleus,LRN,MidHindMedulla
+669,307,Magnocellular reticular nucleus,MARN,MidHindMedulla
+670,395,Medullary reticular nucleus,MDRN,MidHindMedulla
+671,1098,"Medullary reticular nucleus, dorsal part",MDRNd,MidHindMedulla
+672,1107,"Medullary reticular nucleus, ventral part",MDRNv,MidHindMedulla
+673,852,Parvicellular reticular nucleus,PARN,MidHindMedulla
+674,859,Parasolitary nucleus,PAS,MidHindMedulla
+676,970,"Paragigantocellular reticular nucleus, dorsal part",PGRNd,MidHindMedulla
+677,978,"Paragigantocellular reticular nucleus, lateral part",PGRNl,MidHindMedulla
+679,177,Nucleus of Roller,NR,MidHindMedulla
+680,169,Nucleus prepositus,PRP,MidHindMedulla
+681,1069,Parapyramidal nucleus,PPY,MidHindMedulla
+683,209,Lateral vestibular nucleus,LAV,MidHindMedulla
+684,202,Medial vestibular nucleus,MV,MidHindMedulla
+685,225,Spinal vestibular nucleus,SPIV,MidHindMedulla
+686,217,Superior vestibular nucleus,SUV,MidHindMedulla
+687,765,Nucleus x,x,MidHindMedulla
+688,773,Hypoglossal nucleus,XII,MidHindMedulla
+689,781,Nucleus y,y,MidHindMedulla
+691,206,Nucleus raphe magnus,RM,MidHindMedulla
+692,230,Nucleus raphe pallidus,RPA,MidHindMedulla
+693,222,Nucleus raphe obscurus,RO,MidHindMedulla
+697,912,Lingula (I),LING,Cerebellum
+698,920,Central lobule,CENT,Cerebellum
+701,928,Culmen,CUL,Cerebellum
+703,936,Declive (VI),DEC,Cerebellum
+704,944,Folium-tuber vermis (VII),FOTU,Cerebellum
+705,951,Pyramus (VIII),PYR,Cerebellum
+706,957,Uvula (IX),UVU,Cerebellum
+707,968,Nodulus (X),NOD,Cerebellum
+709,1007,Simple lobule,SIM,Cerebellum
+710,1017,Ansiform lobule,AN,Cerebellum
+713,1025,Paramedian lobule,PRM,Cerebellum
+714,1033,Copula pyramidis,COPY,Cerebellum
+715,1041,Paraflocculus,PFL,Cerebellum
+716,1049,Flocculus,FL,Cerebellum
+718,989,Fastigial nucleus,FN,Cerebellum
+719,91,Interposed nucleus,IP,Cerebellum
+720,846,Dentate nucleus,DN,Cerebellum
+721,589508455,Vestibulocerebellar nucleus,VeCB,Cerebellum
